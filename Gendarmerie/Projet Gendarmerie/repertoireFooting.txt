@@ -1,0 +1,76 @@
+>annexePlanManagement
+	BudgetFooting.xls
+	demandeModificationFooting.doc
+	ficheAnomalieFooting.xls
+	ficheDeCommunicationFooting.doc
+	modelCompteRenduReunionFooting.doc
+	suiviActionFooting.xls
+>doc intermediaire
+	cahierDesChargesFootingV1.01.doc
+	cahierDesChargesFootingV1.doc
+	CDCD7FLUXFooting.vsd
+	CDCD7UMLFooting.vsd
+	CDCD8FLUXFooting.vsd
+	CDCD8UMLFooting.vsd
+	CDCD9FLUXFooting.vsd
+	CDCD9UMLFooting.vsd
+	CDCFFootingaEnregistrementAChaqueTour.vsd
+	CDCFFootingbEnregistrementDistance.vsd
+	CDCFFootingcVitesseFonctionDistanceTemps2.vsd
+	CDCFFootingcVitesseFonctionDistanceTemps.vsd
+	CDCFFootingFonctionEnregistrementDonnees.vsd
+	CDCFFootingFonctionEnregistrementVisualisationCircuit.vsd
+	CDCFFootingFonctionEnregistrementVisualisationParcours.vsd
+	CDCFFootingMaquette.vsd
+	listeDesTachesFooting.doc
+	listeDesTachesOrganiseFooting.doc
+	MCDFooting.xls
+	Mockko iPhone Mockups  iPad Mockups  Android Mockups.webarchive
+	ProjetFootingGanttFootingV1.xls
+>doc liaison
+	Contacts projets L3 RCDSM 2012 2013.pdf
+	Convention_L3.docx
+	Ex-03-Etude de cas INFOTECH-Courbe en S.doc
+	Formulaire prêt.docx
+>doc support
+	>gestionprojet
+		COCOMO-les_principes-V20.pdf
+		Composition_Plan_Management_Projet.pdf
+		CoursN4-Estimation-projet-V3-09-12.ppt
+	Exemple-de-Cahier-Des-Charges.htm
+>echange client
+	>Envoie
+		>Cahier des charges
+			cahierDesChargesFootingV1.01.doc
+			Nouveau Document texte.txt
+	>Reponse
+		>Cahier des charges
+			cahierDesChargesV1 02.doc
+			Nouveau Document texte.txt
+>maquettage
+	FootingMaquette1.JPG
+	FootingMaquette2.JPG
+	FootingMaquette3.JPG
+	FootingMaquette4.JPG
+	FootingMaquette5.JPG
+	FootingMaquette6.JPG
+	FootingMaquette7.JPG
+	FootingMaquette8.JPG
+	FootingMaquette9.JPG
+	FootingMaquette10.JPG
+	FootingMaquette11.JPG
+	FootingMaquette12.JPG
+	FootingMaquette13.JPG
+	FootingMaquette14.JPG
+	FootingMaquette15.JPG
+	FootingMaquette16.JPG
+	FootingMaquette17.JPG
+	FootingMaquette18.JPG
+	FootingMaquette19.JPG
+cahierDesChargesV1 02.doc
+etudeDetailleFooting.doc
+etudeFonctionnelleFooting.doc
+planManagementFooting.doc
+ProjetFootingGanttFootingV1.mpp
+rapportActiviteCAFooting.xls
+repertoireFooting.txt

@@ -1,0 +1,22 @@
+Eleve :
+nouveau ancien
+nouveau voir planning cour
+liste de compétence
+cv dispo ou non !obligatoire
+ancien + nouveau
+contact pour entreprise
+dépot de cv actif ou non
+consulte demande entreprise
+dépot de job + consulte
+dépot info ou réponse formulaire
+client xmpp
+info / push ciblé ?
+critère de recherches
+protéger donner
+
+inscription => formulaire => validation imie
+
+connexion => 
+evenement
+message
+liste de contact
