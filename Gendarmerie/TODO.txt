@@ -1,0 +1,9 @@
+android: 
+parser
+ecran
+analytic
+push
+uri image
+récupe info
+envoie info
+
