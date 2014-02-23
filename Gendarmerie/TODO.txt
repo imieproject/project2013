@@ -7,3 +7,4 @@ uri image
 récupe info
 envoie info
 
+image universal load image
